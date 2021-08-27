@@ -1,7 +1,3 @@
-# tusdeberes
+# Lista del día
 
-Aplicación móvil
-
-## Lista del día
-
-Aplicacón para tener un control de las cosas por hacer durante el día.
+Aplicacón móvil para tener un control de las cosas por hacer durante el día.
